@@ -1,3 +1,4 @@
+// Faça um comentário de uma linha no JavaScript no exercicio anterior
 
 //Função para alternar a cor do fundo de tela para VERDE
 function alternaCorFundoVerde() {
@@ -12,6 +13,8 @@ function alternaCorFundoVermelho() {
     //De acordo como MozillaDev posso alterar a cor de fundo utilizando o atributo style do elemento body
     vBody.style = "background-color: red;";
 }
+
+// Faça um comentário de várias linhas – bloco de texto – no JavaScript no exercicio anterior
 
 /* Função genérica para alternar a cor de fundo
 conforme o parâmetro informado na chamada
